@@ -1,4 +1,3 @@
-import { Link } from "@nextui-org/link";
 import {
   Navbar as NextUINavbar,
   NavbarBrand,
